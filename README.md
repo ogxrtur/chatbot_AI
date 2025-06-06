@@ -15,6 +15,7 @@ Execute o script:
 python main.py
 
 
+
 🛠️ Funcionalidades
 Interação básica com o usuário via terminal.
 
