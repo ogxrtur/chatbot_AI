@@ -9,6 +9,7 @@ main.py: Arquivo principal que contém a lógica do chatbot.
 Clone o repositório:
 
 git clone https://github.com/ogxrtur/chatbot_AI.git
+
 cd chatbot_AI
 
 Execute o script:
